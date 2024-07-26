@@ -11,7 +11,7 @@ But because I changed the code too much, I decided to open a new repo.
 Generates a video using a set of images which are defined by the user and also writes 'some' metadata to a text file, so you can post it on a streaming website in an easy way.
 Allows the user to make a commentary which will then be sent to each text file as an "album commentary:"
 
-## Things [the original coder] needs help fixing:
+## Things that need help fixing:
 1. There's too much code for something that *should* be a fairly simple task.
 2. Imagemagick was used because I wasn't able to get FFMPEG to work based on what I wanted to do, and even still, it was done in a sloppy way because I wasn't able to separate the command into chunks, so the easiest way was to just make a bunch of commands that did work.
 3. The metadata may be missing depending on whether it exists or not (obviously), but I don't really know how to write an if statement so it writes something else based on it's presence.
