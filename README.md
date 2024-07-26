@@ -17,7 +17,7 @@ Allows the user to make a commentary which will then be sent to each text file a
 3. The metadata may be missing depending on whether it exists or not (obviously), but I don't really know how to write an if statement so it writes something else based on it's presence.
 
 
-# Example 
+# Example (A slight bit deprecated but it's the general idea)
 ##### Here's how it will look if you've done everything right:
 ![9 - タイニーリトル・アジアンタム - TOHO BOSSA NOVA 2](https://user-images.githubusercontent.com/62615566/120726983-c813e500-c4af-11eb-8647-28bf46495dcf.png)
 *innit cool?*
