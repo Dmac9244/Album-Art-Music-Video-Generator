@@ -40,6 +40,7 @@ For creating the actual video, make a folder called "songs" and place the follow
      -  Track #
      -  Replaygain
      -  date
+
 You can use a program like [mp3tag](https://www.mp3tag.de/en/) to easily add most of these tags, while replaygain is a little more difficult. [rsgain](https://github.com/complexlogic/rsgain?tab=readme-ov-file) is a good, fairly simple to use command-line tool that should write those tags for you.
 
 The script will run a for loop until it finishes with the files, so the usual idea is to place an entire album in the folder and wait till it's done.
